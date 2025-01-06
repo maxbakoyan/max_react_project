@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/max_react_project/static/css/main.cce5d097.css",
+    "main.js": "/max_react_project/static/js/main.545ff43a.js",
+    "index.html": "/max_react_project/index.html",
+    "main.cce5d097.css.map": "/max_react_project/static/css/main.cce5d097.css.map",
+    "main.545ff43a.js.map": "/max_react_project/static/js/main.545ff43a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce5d097.css",
+    "static/js/main.545ff43a.js"
+  ]
+}
